@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente eu estou estagiando e desenvolvendo um aplicativo<br>🌱 Atualmente eu estou aprendendo flutter e java<br>
+🔭 Atualmente desenvolvendo um aplicativo<br>🌱 Atualmente eu estou aprendendo flutter e java<br>
 
 
 ## 🌐 Socials:
