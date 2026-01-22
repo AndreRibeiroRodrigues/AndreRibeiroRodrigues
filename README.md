@@ -2,7 +2,7 @@
 
 🎮 Também conhecido como **Rayjir** nos jogos e comunidades online.  
 💻 Formado em **Análise e Desenvolvimento de Sistemas**.  
-☕ Atualmente focado em aprender **Java** e **Flask** para crescer profissionalmente e realizar meus projetos pessoais.  
+☕ Atualmente focado em aprender **Java** e **Flask** para crescer profissionalmente e realizar meus projetos. 
 
 ---
 
