@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o André (Rayjir)
 
 🎮 Também conhecido como **Rayjir** nos jogos e comunidades online.  
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**.  
-☕ Atualmente focado em aprender **Java** para crescer profissionalmente e realizar meus projetos pessoais.  
+💻 Formado em **Análise e Desenvolvimento de Sistemas**.  
+☕ Atualmente focado em aprender **Java** e **Flask** para crescer profissionalmente e realizar meus projetos pessoais.  
 
 ---
 
